@@ -1,0 +1,9 @@
+#incluce<iostream>
+using namespace std;
+int main()
+{
+  int a[5];
+  int a,b,c,d,e;
+  cin>>a>>b>>c>>d>>e;
+  cout<<"Integers in reverse order are "<<e<<d<<c<<b<<a;
+}
